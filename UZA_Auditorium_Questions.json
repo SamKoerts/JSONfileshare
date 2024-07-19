@@ -1,0 +1,14 @@
+{"BE":[
+	["Welke bron wilt u gebruiken?",["Geen","Eigen apparaat op HDMI","Eigen apparaat op USB-C","Auditorium PC","Eigen apparaat via clickshare"]],
+    ["Gaat u gebruik maken van de Microsoft teams room?",["Ja","Nee"]],
+    ["Maakt u gebruik van het Voicelift systeem?",["Nee","Ja, maar enkel vanaf podium","Ja, overal"]],
+    ["Maakt u gebruik draadloze microfoons?",["Ja","Nee"]],
+    ["Wenst u een opname?",["Ja","Nee"]]
+],
+"GB":[
+    ["Which source do you want to use?",["None","Own device using HDMI","Own device using USB-C","Auditorium PC","Own device using clickshare"]],
+    ["Do you wish to use the Microsoft teams room?",["Yes","No"]],
+    ["Do you wish to use the voicelift system?",["No","Yes, only from stage","Yes, the whole room"]],
+    ["Do you wish to use wireless microphones?",["Yes","No"]],
+    ["Do you want a recording?",["Yes","No"]]
+]}
