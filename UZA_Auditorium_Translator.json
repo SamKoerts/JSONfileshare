@@ -43,7 +43,7 @@
     "Layout1" : "PiP",
     "Layout2" : "Naast elkaar",
     "Layout3" : "Boven elkaar",
-    "Layout4" : "layout 4"
+    "Layout4" : ""
 },
 "GB":{
     "Room" : "Auditorium",
@@ -90,5 +90,5 @@
     "Layout1" : "PiP",
     "Layout2" : "Side by side",
     "Layout3" : "Top bottom",
-    "Layout4" : "layout 4"
+    "Layout4" : ""
 }}
