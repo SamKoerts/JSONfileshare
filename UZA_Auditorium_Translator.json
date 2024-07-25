@@ -1,6 +1,6 @@
 {"BE":{
     "Room" : "Auditorium",
-    "Start" : "Druk om te starten",
+    "Start" : "Druk om te starten\r\n\r\n\r\n",
     "On" : "Aan",
     "Off" : "Uit",
     "Mode1" : "Uit",
@@ -41,7 +41,7 @@
 },
 "GB":{
     "Room" : "Auditorium",
-    "Start" : "Touch to start",
+    "Start" : "Touch to start\r\n\r\n\r\n",
     "On" : "On",
     "Off" : "Off",
     "Mode1" : "Off",
