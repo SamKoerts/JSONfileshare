@@ -37,7 +37,13 @@
     "Popup2Text3" : "Handzender 1",
     "Popup2Text4" : "Handzender 2",
     "Popup2Text5" : "Handzender 3",
-    "Popup2Text6" : "Pupiter"
+    "Popup2Text6" : "Pupiter",
+    "Popup3Text1" : "Opname",
+    "Popup3Text2" : "Compositie",
+    "Layout1" : "PiP",
+    "Layout2" : "Naast elkaar",
+    "Layout3" : "Boven elkaar",
+    "Layout4" : "layout 4"
 },
 "GB":{
     "Room" : "Auditorium",
@@ -78,5 +84,11 @@
     "Popup2Text3" : "Handheld 1",
     "Popup2Text4" : "Handheld 2",
     "Popup2Text5" : "Handheld 3",
-    "Popup2Text6" : "Lectern"
+    "Popup2Text6" : "Lectern",
+    "Popup3Text1" : "Recording",
+    "Popup3Text2" : "Layout",
+    "Layout1" : "PiP",
+    "Layout2" : "Side by side",
+    "Layout3" : "Top bottom",
+    "Layout4" : "layout 4"
 }}
