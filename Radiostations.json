@@ -10,7 +10,6 @@
 	"Radio 2 Limburg" : "http://icecast.vrtcdn.be/ra2lim-high.mp3",
 	"Radio 2 Vlaams-Brabant" : "http://icecast.vrtcdn.be/ra2vlb-high.mp3",
 	"Studio Brussel" : "https://icecast.vrtcdn.be/stubru-high.mp3",
-	"NRJ" : "https://playerservices.streamtheworld.com/api/livestream-redirect/NRJBELGIE.mp3",
 	"OWR" : "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_WORLD_RADIO_NL.mp3",
 	"Nostalgie" : "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3",
 	"Willy" : "https://streams.radio.dpgmedia.cloud/redirect/willy_be/mp3",
