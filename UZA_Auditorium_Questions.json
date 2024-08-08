@@ -1,16 +1,16 @@
 {"BE":[
-	["Welke bron wilt u gebruiken?",["Geen","Eigen apparaat op HDMI","Eigen apparaat op USB-C","Auditorium PC","Eigen apparaat via clickshare"]],
-    ["Gaat u gebruik maken van de Microsoft teams room?",["Ja","Nee"]],
-    ["Maakt u gebruik van het Voicelift systeem?",["Nee","Ja, maar enkel vanaf podium","Ja, overal"]],
+    ["Via welke bron wilt u informatie delen op het scherm van het Auditorium?",["Geen","Eigen apparaat op HDMI","Eigen apparaat op USB-C","Eigen apparaat via clickshare","Auditorium PC"]],
+    ["Gaat u gebruik maken van een online meeting via Microsoft Teams?",["Ja","Nee"]],
+    ["Maakt u gebruik van het Voicelift systeem?\r\nHet voicelift systeem maakt het mogelijk om zonder extra microfoons hoorbaar te zijn in de hele ruimte",["Nee","Ja, maar enkel vanaf podium","Ja, overal"]],
     ["Maakt u gebruik draadloze microfoons?",["Ja","Nee"]],
-    ["Wenst u een opname?",["Ja","Nee"]],
-    ["Wenst u gebruik te maken van het cameravolgsysteem?",["Ja","Nee"]]
+    ["Wilt u dat uw presentatie en het geluid in de ruimte opgenomen wordt, zodat u dit later kunt delen of herbekijken?",["Ja","Nee"]],
+    ["Wenst u gebruik te maken van het cameravolgsysteem?\r\nHet Camera volgsysteem volgt automatisch de spreker op het podium,\r\nAls het voicelift systeem in voor iedereen gebruikt wordt komen sprekers uit de zaal ook in beeld.",["Ja","Nee"]]
 ],
 "GB":[
-    ["Which source do you want to use?",["None","Own device using HDMI","Own device using USB-C","Auditorium PC","Own device using clickshare"]],
-    ["Do you wish to use the Microsoft teams room?",["Yes","No"]],
-    ["Do you wish to use the voicelift system?",["No","Yes, only from stage","Yes, the whole room"]],
+    ["Through what source would you like to share information on the Auditorium screen?",["None","Own device using HDMI","Own device using USB-C","Own device using clickshare","Auditorium PC"]],
+    ["Will you be using an online meeting via Microsoft Teams?",["Yes","No"]],
+    ["Do you wish to use the voicelift system?\r\nThe voicelift system enables audibility throughout the room without additional microphones",["No","Yes, only from stage","Yes, the whole room"]],
     ["Do you wish to use wireless microphones?",["Yes","No"]],
-    ["Do you want a recording?",["Yes","No"]],
-    ["Do you wish to use the automatic camera system?",["Yes","No"]]
+    ["Would you like your presentation and sound recorded in the room so you can share or rewatch it later?",["Yes","No"]],
+    ["Do you wish to use the automatic tracking camera system?\r\nThe Camera Tracking System automatically follows the speaker on stage,\r\nWhen the voicelift system is used for everyone, speakers from the room will also come into view",["Yes","No"]]
 ]}
