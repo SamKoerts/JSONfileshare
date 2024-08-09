@@ -1,4 +1,4 @@
-{"BE":{
+ {"BE":{
     "Room" : "Auditorium",
     "Start" : "Welkom in het auditorium Kinsbergen.\r\nDruk hier om te starten\r\n\r\n",
     "On" : "Aan",
@@ -44,7 +44,7 @@
     "Layout2" : "Naast elkaar",
     "Layout3" : "Boven elkaar",
     "Layout4" : "",
-    "Help" : "Selecteer desgewenst een andere bron,\r\npas het presentatie volume aan of kies een andere voicelift optie.\r\nHet voicelift systeem maakt het mogelijk om zonder extra microfoons hoorbaar te zijn in de hele ruimte.\r\nDraadloze microfoons kunnen harder en zachter worden gezet onder de tab micro,\r\nde opname kan worden gestart en gestopt on de tab Opname\r\n\r\nVoor verdere assistentie kunt u contact opnemen met het eventteam op nummer xxxxxxxxxxxx"
+    "Help" : "Druk op de ronde pijlen om de vragen opniew te starten.\r\nSelecteer desgewenst een andere bron,\r\npas het presentatie volume aan of kies een andere voicelift optie.\r\nHet voicelift systeem maakt het mogelijk om zonder extra microfoons hoorbaar te zijn in de hele ruimte.\r\nDraadloze microfoons kunnen harder en zachter worden gezet onder de tab micro,\r\nde opname kan worden gestart en gestopt on de tab Opname\r\n\r\nVoor verdere assistentie kunt u contact opnemen met het eventteam op nummer xxxxxxxxxxxx"
 },
 "GB":{
     "Room" : "Auditorium",
@@ -92,5 +92,5 @@
     "Layout2" : "Side by side",
     "Layout3" : "Top bottom",
     "Layout4" : "",
-    "Help":"If desired, select another source, adjust the presentation volume or choose another voicelift option.\r\nThe voicelift system allows you to be audible throughout the room without additional microphones.\r\nWireless microphones can be turned up and down under the micro menu,\r\nrecording can be started and stopped on the recording menu.\r\n\r\nFor further assistance, please contact the event team at xxxxxxxxxxxx"
+    "Help":"Press the round arrows to restart the questions.\r\nIf desired, select another source, adjust the presentation volume or choose another voicelift option.\r\nThe voicelift system allows you to be audible throughout the room without additional microphones.\r\nWireless microphones can be turned up and down under the micro menu,\r\nrecording can be started and stopped on the recording menu.\r\n\r\nFor further assistance, please contact the event team at xxxxxxxxxxxx"
 }}
