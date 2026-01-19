@@ -25,5 +25,10 @@
 	"23" : {"Name":"Hit","url":"https://player.hit-radio.be/hitradio.mp3"},
 	"24" : {"Name":"NRJ","url":"https://stream.rcs.revma.com/xh00fwuptg0uv"},
 	"25" : {"Name":"Radio Contact","url":"https://radiocontact.ice.infomaniak.ch/radiocontact-mp3-192.mp3"},
-	"26" : {"Name":"RTL Belgium","url":"https://belrtl.ice.infomaniak.ch/belrtl-mp3-192.mp3"}
+	"26" : {"Name":"RTL Belgium","url":"https://belrtl.ice.infomaniak.ch/belrtl-mp3-192.mp3"},
+	
+	"27" : {"Name":"24/7 Cafe","url":"https://ec6.yesstreaming.net:1555/stream"},
+	"28" : {"Name":"24/7 Lounge","url":"https://ec3.yesstreaming.net:3665/stream"},
+	"29" : {"Name":"Fribit","url":"https://s2.audioroadie.com/skillrisbackup123938"}
 }	
+
