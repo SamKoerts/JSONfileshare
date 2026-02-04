@@ -29,6 +29,9 @@
 	
 	"27" : {"Name":"24/7 Cafe","url":"https://ec6.yesstreaming.net:1555/stream"},
 	"28" : {"Name":"24/7 Lounge","url":"https://ec3.yesstreaming.net:3665/stream"},
-	"29" : {"Name":"Fribit","url":"https://s2.audioroadie.com/skillrisbackup123938"}
+	"29" : {"Name":"Fribit","url":"https://s2.audioroadie.com/skillrisbackup123938"},
+	"30" : {"Name":"flAIr","url":"https://play.radioking.io/flair-ai-radio"},
+	"31" : {"Name":"Scorpio","url":"https://stream.radioscorpio.be/stream"}
 }	
+
 
