@@ -13,9 +13,9 @@
 	"12" : {"Name":"Nostalgie","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3"},
 	"13" : {"Name":"Willy","url":"https://streams.radio.dpgmedia.cloud/redirect/willy_be/mp3"},
 	"14" : {"Name":"Klara","url":"https://icecast.vrtcdn.be/klara-high.mp3"},
-	"15" : {"Name":"Crooze","url":"http://streams.crooze.fm:8000/;stream128"},
-	"16" : {"Name":"Chillout","url":"https://streaming.shoutcast.com/chillout-crooze-mp3"},
-	"17" : {"Name":"Lounge","url":"https://streaming.shoutcast.com/lounge-crooze-mp3"},
+	"15" : {"Name":"Jazz","url":"https://streamingp.shoutcast.com/NostalgieJazz-aac/;"},
+	"16" : {"Name":"TOP Zen","url":"https://25603.live.streamtheworld.com/TOPZEN_SC"},
+	"17" : {"Name":"Absolute Ibiza","url":"https://streamingv2.shoutcast.com/Absolute-Ibiza"},
 	"18" : {"Name":"OWR","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_WORLD_RADIO_NL.mp3"},
 	"19" : {"Name":"Instrumentaal","url":"https://quincy.torontocast.com:1915/stream"},
 	
